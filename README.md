@@ -1,4 +1,4 @@
-# microgear-esp8266-arduino
+# microgear-wifi.h-arduino
 
 microgear-esp8266-arduino  is a client library that is used to connect an ESP8266 chip to the NETPIE Platform's service for developing IoT applications. For more details on the NETPIE Platform, please visit https://netpie.io .
 
